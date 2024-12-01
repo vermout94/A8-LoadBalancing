@@ -1,0 +1,5 @@
+config:
+  azure-native:location: eastus
+  A8-LoadBalancer:adminUsername: pulumiisdogshit
+  A8-LoadBalancer:adminPassword:
+    secure: AAABADNiP4O7XoVTSxyoyrbFv/zC0/76R9Av8uhaXnhI3ES3m+MJUCY=
